@@ -1,0 +1,16 @@
+/* this is text note of project */
+
+- no framework (bootstrap - foundation)
+- pure javascript
+- many plugins
+- Jquery for plugins
+- UI / UX Sketches  => (Adobe XD) 
+- Mind Mapping تخطيط لفكره او ديزاين معين
+- My VS Code Extention
+ 
+/* wha you need? */
+
+- html5
+- css3
+- javascript + ES6 + Dom
+- Jquery
